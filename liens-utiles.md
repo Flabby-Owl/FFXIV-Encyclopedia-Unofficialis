@@ -20,25 +20,23 @@ Vous trouverez ici tous les liens utiles qui ont un rapport avec le jeu FFXIV, n
 
 # Guides du jeu et bases de données
 
--Site pour toutes les quêtes, items, ou autre de FF14 => https://fr.finalfantasyxiv.com/lodestone/playguide/db/ (🇫🇷)
--Site qui permet de chercher des Linkshells/Compagnies Libres/Equipe JcJ => https://fr.finalfantasyxiv.com/lodestone/community_finder/ (🇫🇷)
--Le Wiki communautaire => http://ffxiv.consolegameswiki.com/wiki/FF14_Wiki (🇬🇧)
--Site regroupant des informations utiles => http://ffxiv.gamerescape.com/ (🇬🇧)
--Site contenant divers guide => http://www.ffxivguild.com/ (🇬🇧)
--Site contenant divers guide => https://www.ffxiv-eorzea.com/ (🇫🇷)
--Lexique FFXIV =>https://docs.google.com/document/d/14l_IW4FpoSgkvbzgSCPxOQDJ3Vi-nMpmpqYQcm_8M2w (🇫🇷)
--Lexique MMO & FF XIV => https://nawiel.live/le-lexique-du-mmo-dans-ffxiv/ (🇫🇷)
--Lexique FF XIV => https://www.ffdream.com/articles/38486-le-dictionnaire-de-final-fantasy-xiv
--Site reprenant l'HDV en temps réel => https://universalis.app/ (🇫🇷 /🇬🇧)
--Positions/quêtes vent Ethérés => https://daevasfashion.fr/final-fantasy-xiv/vents-etheres/ (🇫🇷)
--Site pour les Armes Reliques (50 à 80) => http://www.ffxiv-sitis.com/Armes_du_Zodiaque.e.htm (🇫🇷)
--Site pour Armes Reliques (90) => https://sulca.fr/xiv-relic-90 (🇫🇷)
--Gide de Grande compagnie => https://daevasfashion.fr/final-fantasy-xiv/grande-compagnie/ (🇫🇷)
--Guide débloquer les défis / donjons / raids et tribales => https://daevasfashion.fr/final-fantasy-xiv/debloquer-contenu/ (🇫🇷)
--Guide matérias Job et Métiers => http://ffxiv.ariyala.com/ (🇫🇷 /🇬🇧)
--Site palais des morts => https://eorzeaworld.com/fr/site/potd (🇫🇷)
--Site pilier des cieux => https://eorzeaworld.com/fr/site/hoh (🇫🇷)
--Liste des Aléas par zone => https://eorzeaworld.com/fr/site/fates (🇫🇷 /🇬🇧)
+| Lien                                                                                | Description                                             | Langue |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ |
+| [Lodestone Base de Données](https://fr.finalfantasyxiv.com/lodestone/playguide/db/) | La Base de données Officielle de FF XIV                 | 🇫🇷   |
+| [Lodestone Communautés](https://fr.finalfantasyxiv.com/lodestone/community_finder/) | La Base de données des joueurs, CL et groupes de FF XIV | 🇫🇷   |
+| [Wiki communautaire](http://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)              | Le Wiki Communautaire                                   | 🇬🇧   |
+| [Teamcraft](https://ffxivteamcraft.com/)                                            | La Bible des Crafteurs / Recolteurs                     | 🇫🇷   |
+| [Gamerescape](http://ffxiv.gamerescape.com/)                                        | Une Bible                                               | 🇬🇧   |
+| [FFX\|V Guild](http://www.ffxivguild.com/)                                          | Une autre Bible                                         | 🇬🇧   |
+| [Eorza Times](https://www.ffxiv-eorzea.com/)                                        | Encore une Bible                                        | 🇫🇷   |
+| [Icy Veins](https://www.icy-veins.com/ffxiv/)                                       | Toujours une Bible                                      | 🇬🇧   |
+| [Daeva's Fashion](https://daevasfashion.fr/game/final-fantasy-xiv/)                 | Devinez...                                              | 🇫🇷   |
+| [Eorzea World](https://eorzeaworld.com/fr/home)                                     | Oui ! encore une Bible                                  | 🇫🇷   |
+| [Nawiel Live](https://nawiel.live/)                                                 | Site plutot specialisé Strategies HL                    | 🇫🇷   |
+| [Universalis](https://universalis.app/)                                             | L'hotel des Vente en Live                               | 🇫🇷   |
+
+
+
 
 # PvP
 
