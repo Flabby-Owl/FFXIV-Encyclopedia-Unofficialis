@@ -123,22 +123,27 @@ Mirage Familier
 /petmirage "[nom de familier]" "[apparence]"
 ```
 
-> Permet de changer l'apparence d'un familier dès la prochaine invocation.
-> Cette commande n'est pas effective dans les instances de combat JcJ.
-> **Noms des familiers :**
-> Carbuncle
-> Garuda-Egi
-> Titan-Egi
-> Ifrit-Egi
-> Eos
-> **Apparences :**
-> Carbuncle
-> Carbuncle émeraude
-> Carbuncle topaze
-> Carbuncle rubis
-> Garuda-Egi
-> Titan-Egi
-> Ifrit-Egi
-> Selene
+Permet de changer l'apparence d'un familier dès la prochaine invocation.
+
+Cette commande n'est pas effective dans les instances de combat JcJ.
+
+**Noms des familiers :** 
+
+- Carbuncle
+- Garuda-Egi
+- Titan-Egi
+- Ifrit-Egi
+- Eos
+
+**Apparences :**
+
+- Carbuncle
+- Carbuncle émeraude
+- Carbuncle topaze
+- Carbuncle rubis
+- Garuda-Egi
+- Titan-Egi
+- Ifrit-Egi
+- Selene
 
 **Contributeur:** *Square-Enix*
