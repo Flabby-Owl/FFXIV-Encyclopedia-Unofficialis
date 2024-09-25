@@ -62,7 +62,6 @@
 
 # Glam
 
-| Lien                                                         | Description          | Langue  |
-| ------------------------------------------------------------ | -------------------- | ------- |
-| [Eorzea Collection](https://ffxiv.eorzeacollection.com/)     | La Bible du Glam     | 🇬🇧      |
-| [Macro Glam Carbuncle](https://fr.finalfantasyxiv.com/lodestone/playguide/db/text_command/0504982cac8/) | Macro Glam Carbuncle | 🇫🇷 / 🇬🇧 |
+| Lien                                                     | Description      | Langue |
+| -------------------------------------------------------- | ---------------- | ------ |
+| [Eorzea Collection](https://ffxiv.eorzeacollection.com/) | La Bible du Glam | 🇬🇧     |
