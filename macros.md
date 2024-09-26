@@ -2,7 +2,7 @@
 
 ------
 
-##### Mage Blanc:
+##### ![White Mage Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/WMG.png)Mage Blanc:
 
 ```haskell
 /micon Résurrection
@@ -24,7 +24,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### Sage:
+##### ![Sage Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/SGE.png)Sage:
 
 ```haskell
 /micon Egeiro
@@ -46,7 +46,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### Astromancien:
+##### ![Astro Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/AST.png)Astromancien:
 
 ```haskell
 /macroicon Ascendant
@@ -58,7 +58,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### Erudit / Invocateur:
+##### ![Erudit Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/SCH.png)![Invo Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/SMN.png)Erudit / Invocateur:
 
 ```haskell
 /macroicon Résurrection
@@ -70,7 +70,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### Mage Rouge:
+##### ![Red Mage Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/RMG.png)Mage Rouge:
 
 ```haskell
 /macroicon Vervie
