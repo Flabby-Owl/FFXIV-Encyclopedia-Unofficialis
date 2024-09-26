@@ -2,7 +2,7 @@
 
 ------
 
-##### ![White Mage Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/WMG.png)Mage Blanc:
+##### ![White Mage Icon](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/img/WMG.png?raw=true)Mage Blanc:
 
 ```haskell
 /micon Résurrection
@@ -24,7 +24,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### ![Sage Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/SGE.png)Sage:
+##### ![Sage Icon](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/img/SGE.png?raw=true)Sage:
 
 ```haskell
 /micon Egeiro
@@ -46,7 +46,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### ![Astro Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/AST.png)Astromancien:
+##### ![Astro Icon](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/img/AST.png?raw=true)Astromancien:
 
 ```haskell
 /macroicon Ascendant
@@ -58,7 +58,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### ![Erudit Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/SCH.png)![Invo Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/SMN.png)Erudit / Invocateur:
+##### ![Erudit Icon](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/img/SCH.png?raw=true)![Invo Icon](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/img/SMN.png?raw=true)Erudit / Invocateur:
 
 ```haskell
 /macroicon Résurrection
@@ -70,7 +70,7 @@
 
 **Contributeur:** *Anne Hevrisme*
 
-##### ![Red Mage Icon](/home/barkod/Developpement Web/Mainline/FFXIV-Encyclopedia-Unofficialis/img/RMG.png)Mage Rouge:
+##### ![Red Mage Icon](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/img/RMG.png?raw=true)Mage Rouge:
 
 ```haskell
 /macroicon Vervie
