@@ -6,6 +6,7 @@
 | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | [Les Liens de Rydia](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/liens-rydia.md) | Liens divers et variés, toutes catégories                  |
 | Les Liens Nezumi (COMING SOON)                               | Liens divers et variés, toutes catégories, par les membres |
+| [Les Guides de Defis/Raids](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/guides.md) | Difficultés Extreme et Sadique pour Endwalker et Dawntrail |
 | [Karashiiro XIV Ressources](https://github.com/karashiiro/xiv-resources) | Grosse banque de liens, fournis "tels quels"               |
 | [Macros utiles](https://github.com/Flabby-Owl/FFXIV-Encyclopedia-Unofficialis/blob/master/macros.md) | Banque de Macros, toutes catégories, par les membres       |
 | [Google Sheet des Montures](https://docs.google.com/spreadsheets/d/1mWvZZHneA8Q2Tgq1w53ATpsBU91WJN4uszQERFvraOk/edit?gid=0#gid=0) | Listing des montures Extreme et Raids, pour les membres    |
