@@ -54,20 +54,20 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | La Chaire de l'Exilée (Golbez)                |      |              
 | La Fracture Abyssale (Zeromus)                |      |              
 
-| Nom du Raid                    | Lien | Contributeur |
-| ------------------------------ | ---- | ------------ |
-| P1S (Erichtonios)              |      |              |
-| P2S (Hippokampos)              |      |              |
-| P3S (Protophenix)              |      |              |
-| P4S (Hesperos)                 |      |              |
-| P5S (Proto-Carbuncle)          |      |              |
-| P6S (Hegemone)                 |      |              |
-| P7S (Agdistis)                 |      |              |
-| P8S (Héphaïstos)               |      |              |
-| P9S (Cocyte)                   |      |              |
-| P10S (Pandaemonium)            |      |              |
-| P11S (Themis)                  |      |              |
-| P12S (Athena et Pallas Athena) |      |              |
+| Nom du Raid                    | Lien |
+| ------------------------------ | ---- |
+| P1S (Erichtonios)              |      |              
+| P2S (Hippokampos)              |      |              
+| P3S (Protophenix)              |      |              
+| P4S (Hesperos)                 |      |              
+| P5S (Proto-Carbuncle)          |      |              
+| P6S (Hegemone)                 |      |              
+| P7S (Agdistis)                 |      |              
+| P8S (Héphaïstos)               |      |              
+| P9S (Cocyte)                   |      |              
+| P10S (Pandaemonium)            |      |              
+| P11S (Themis)                  |      |              
+| P12S (Athena et Pallas Athena) |      |              
 
 ### Guides Video Dawntrail
 
@@ -78,23 +78,22 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 | Nom du Raid            | Lien                                                         | Contributeur |
 | ---------------------- | ------------------------------------------------------------ | ------------ |
-| M1S (Black Cat)        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) | Rydia        |
-| M2S (Honey Bee Lovely) | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) | Rydia        |
-| M3S (Brute Bomber)     | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) | Rydia        |
-| M4S (Wicked Thunder)   | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) (Plava Station) | Rydia        |
-
+| M1S (Black Cat)        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) |
+| M2S (Honey Bee Lovely) | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) |
+| M3S (Brute Bomber)     | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) |
+| M4S (Wicked Thunder)   | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) (Plava Station) |
 
 
 ### Guides Textuels Dawntrail
 
-| Nom du Defi                          | Lien | Contributeur |
-| ------------------------------------ | ---- | ------------ |
-| Worqor Lar Dor (Valigarmanda)        |      |              |
-| Le Pinacle de l'Éternité (Zoraal Ja) |      |              |
+| Nom du Defi                          | Lien | 
+| ------------------------------------ | ---- |
+| Worqor Lar Dor (Valigarmanda)        |      |              
+| Le Pinacle de l'Éternité (Zoraal Ja) |      |              
 
-| Nom du Raid            | Lien | Contributeur |
-| ---------------------- | ---- | ------------ |
-| M1S (Black Cat)        |      |              |
-| M2S (Honey Bee Lovely) |      |              |
-| M3S (Brute Bomber)     |      |              |
-| M4S (Wicked Thunder)   |      |              |
+| Nom du Raid            | Lien |
+| ---------------------- | ---- |
+| M1S (Black Cat)        |      |              
+| M2S (Honey Bee Lovely) |      |              
+| M3S (Brute Bomber)     |      |              
+| M4S (Wicked Thunder)   |      |              
