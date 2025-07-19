@@ -13,6 +13,72 @@ Vous trouverez ici des guides vidéos et textuels pour les différents défis ex
 
 Ces positions sont a définir au début du combat, pour former les binomes et les light party
 
+### Guides Textuels Dawntrail
+
+| Nom du Defi                          | Lien                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| Worqor Lar Dor (Valigarmanda)        | https://www.ffxiv-eorzea.com/guides-instances/defis/extreme/dawntrail-extreme/guide-valigarmanda-extreme-worqor-lar-dor/2024/09/16/ |
+| Le Pinacle de l'Éternité (Zoraal Ja) | https://www.ffxiv-eorzea.com/guides-instances/guide-zarool/2024/08/01/ |
+| Interphos (Reine Eternité)           | https://www.ffxiv-eorzea.com/guides-instances/guide-reine-eternite-extreme-interphos/2024/12/11/                                                             |
+| Sanctuaire du Serment (Zelenia)      | https://www.ffxiv-eorzea.com/guides-instances/guide-zelenia-extreme-sanctuaire-du-serment/2025/04/07/                                                             |             
+
+| Nom du Raid            | Lien |
+| ---------------------- | ---- |
+| M1S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m1s-poids-mi-lourds-cca-m1s/2024/12/27/     |              
+| M2S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m2s-poids-mi-lourds-cca-m2s/2024/11/12/     |              
+| M3S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m3s-poids-mi-lourds-cca-m3s/2024/12/20/     |              
+| M4S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m4s-phase-1-poids-mi-lourds-cca-m4s/2025/02/09/     |
+| M4S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m4s-phase-2-poids-mi-lourds-cca-m4s/2025/02/09/      |
+| M5S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m5s-poids-lourd-leger-cca-m1s/2025/06/14/      |
+| M6S |      |  
+| M7S |      |  
+| M8S  |      |
+
+### Guides Video Dawntrail
+
+| Nom du Defi                          | Lien                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
+| Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
+| Interphos (Reine Eternité)           |                                                              |
+| Sanctuaire du Serment (Zelenia)      |                                                              |
+
+| Nom du Raid            | Lien                                                         |
+| ---------------------- | ------------------------------------------------------------ |
+| M1S (Black Cat)        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) |
+| M2S (Honey Bee Lovely) | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) |
+| M3S (Brute Bomber)     | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) |
+| M4S (Wicked Thunder)   | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) (Plava Station) |
+
+
+### Guides Textuels Endwalker
+
+| Nom du Défi                                   | Lien |
+| --------------------------------------------- | ---- |
+| Le Cratere des Martyrs (Zordiarche)           |      |              
+| Le Crystal-Mere (Hydaelyn)                    |      |              
+| Le Répons Final (Chantre de l'anéantissement) |      |              
+| La Toison des Tempetes (Barbariccia)          |      |              
+| Le Mont du Supplice (Rubicante)               |      |              
+| La Chaire de l'Exilée (Golbez)                |      |              
+| La Fracture Abyssale (Zeromus)                |      |              
+
+| Nom du Raid                    | Lien |
+| ------------------------------ | ---- |
+| P1S                            | https://www.ffxiv-eorzea.com/guides-instances/raid-hl/raid-pandaemonium-parvis-sadique-p1s/2024/06/10/     |              
+| P2S                            |      |             
+| P3S                            |      |          
+| P4S                            |      |  
+| P5S                            |      |              
+| P6S                            |      |              
+| P7S                            |      |              
+| P8S                            |      |              
+| P9S                            |      |              
+| P10S                           |      |              
+| P11S                           |      |              
+| P12S                           |      |
+| P12S                           |      |
+
 ### Guides Vidéo Endwalker
 
 | Nom du Défi                                   | Lien |
@@ -42,67 +108,4 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 
 
-### Guides Textuels Endwalker
 
-| Nom du Défi                                   | Lien |
-| --------------------------------------------- | ---- |
-| Le Cratere des Martyrs (Zordiarche)           |      |              
-| Le Crystal-Mere (Hydaelyn)                    |      |              
-| Le Répons Final (Chantre de l'anéantissement) |      |              
-| La Toison des Tempetes (Barbariccia)          |      |              
-| Le Mont du Supplice (Rubicante)               |      |              
-| La Chaire de l'Exilée (Golbez)                |      |              
-| La Fracture Abyssale (Zeromus)                |      |              
-
-| Nom du Raid                    | Lien |
-| ------------------------------ | ---- |
-| P1S (Erichtonios)              |      |              
-| P2S (Hippokampos)              |      |              
-| P3S (Protophenix)              |      |              
-| P4S (Hesperos)                 |      |              
-| P5S (Proto-Carbuncle)          |      |              
-| P6S (Hegemone)                 |      |              
-| P7S (Agdistis)                 |      |              
-| P8S (Héphaïstos)               |      |              
-| P9S (Cocyte)                   |      |              
-| P10S (Pandaemonium)            |      |              
-| P11S (Themis)                  |      |              
-| P12S (Athena et Pallas Athena) |      |              
-
-### Guides Video Dawntrail
-
-| Nom du Defi                          | Lien                                                         |
-| ------------------------------------ | ------------------------------------------------------------ |
-| Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
-| Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
-| Interphos (Reine Eternité)           |                                                              |
-| Sanctuaire du Serment (Zelenia)      |                                                              |
-
-| Nom du Raid            | Lien                                                         |
-| ---------------------- | ------------------------------------------------------------ |
-| M1S (Black Cat)        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) |
-| M2S (Honey Bee Lovely) | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) |
-| M3S (Brute Bomber)     | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) |
-| M4S (Wicked Thunder)   | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) (Plava Station) |
-
-
-### Guides Textuels Dawntrail
-
-| Nom du Defi                          | Lien                                                         |
-| ------------------------------------ | ------------------------------------------------------------ |
-| Worqor Lar Dor (Valigarmanda)        | https://www.ffxiv-eorzea.com/guides-instances/defis/extreme/dawntrail-extreme/guide-valigarmanda-extreme-worqor-lar-dor/2024/09/16/ |
-| Le Pinacle de l'Éternité (Zoraal Ja) | https://www.ffxiv-eorzea.com/guides-instances/guide-zarool/2024/08/01/ |
-| Interphos (Reine Eternité)           | https://www.ffxiv-eorzea.com/guides-instances/guide-reine-eternite-extreme-interphos/2024/12/11/                                                             |
-| Sanctuaire du Serment (Zelenia)      | https://www.ffxiv-eorzea.com/guides-instances/guide-zelenia-extreme-sanctuaire-du-serment/2025/04/07/                                                             |             
-
-| Nom du Raid            | Lien |
-| ---------------------- | ---- |
-| M1S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m1s-poids-mi-lourds-cca-m1s/2024/12/27/     |              
-| M2S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m2s-poids-mi-lourds-cca-m2s/2024/11/12/     |              
-| M3S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m3s-poids-mi-lourds-cca-m3s/2024/12/20/     |              
-| M4S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m4s-phase-1-poids-mi-lourds-cca-m4s/2025/02/09/     |
-| M4S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m4s-phase-2-poids-mi-lourds-cca-m4s/2025/02/09/      |
-| M5S | https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m5s-poids-lourd-leger-cca-m1s/2025/06/14/      |
-| M6S |      |  
-| M7S |      |  
-| M8S  |      |  
