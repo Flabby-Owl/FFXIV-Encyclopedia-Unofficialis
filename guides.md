@@ -18,10 +18,10 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 | Nom du Defi                          | Lien                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
-| Worqor Lar Dor (Valigarmanda)        | https://www.ffxiv-eorzea.com/guides-instances/defis/extreme/dawntrail-extreme/guide-valigarmanda-extreme-worqor-lar-dor/2024/09/16/ |
-| Le Pinacle de l'Éternité (Zoraal Ja) | https://www.ffxiv-eorzea.com/guides-instances/guide-zarool/2024/08/01/ |
-| Interphos (Reine Eternité)           | https://www.ffxiv-eorzea.com/guides-instances/guide-reine-eternite-extreme-interphos/2024/12/11/                                                             |
-| Sanctuaire du Serment (Zelenia)      | https://www.ffxiv-eorzea.com/guides-instances/guide-zelenia-extreme-sanctuaire-du-serment/2025/04/07/                                                             |             
+| Worqor Lar Dor       | https://www.ffxiv-eorzea.com/guides-instances/defis/extreme/dawntrail-extreme/guide-valigarmanda-extreme-worqor-lar-dor/2024/09/16/ |
+| Le Pinacle de l'Éternité | https://www.ffxiv-eorzea.com/guides-instances/guide-zarool/2024/08/01/ |
+| Interphos           | https://www.ffxiv-eorzea.com/guides-instances/guide-reine-eternite-extreme-interphos/2024/12/11/                                                             |
+| Sanctuaire du Serment      | https://www.ffxiv-eorzea.com/guides-instances/guide-zelenia-extreme-sanctuaire-du-serment/2025/04/07/                                                             |             
 
 | Nom du Raid            | Lien |
 | ---------------------- | ---- |
@@ -40,31 +40,34 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 | Nom du Defi                          | Lien                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
-| Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
-| Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
-| Interphos (Reine Eternité)           | https://youtu.be/l5OnNQiWXAo?si=Ldpoyd_NDvhbKIu0                                                             |
-| Sanctuaire du Serment (Zelenia)      | https://youtu.be/HWTwIYK_Akg?si=8Rf6M1EnIqva-iYz                                                             |
+| Worqor Lar Dor        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
+| Le Pinacle de l'Éternité | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
+| Interphos           | https://youtu.be/l5OnNQiWXAo?si=Ldpoyd_NDvhbKIu0                                                             |
+| Sanctuaire du Serment      | https://youtu.be/HWTwIYK_Akg?si=8Rf6M1EnIqva-iYz                                                             |
 
 | Nom du Raid            | Lien                                                         |
 | ---------------------- | ------------------------------------------------------------ |
-| M1S (Black Cat)        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) |
-| M2S (Honey Bee Lovely) | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) |
-| M3S (Brute Bomber)     | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) |
-| M4S (Wicked Thunder)   | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) (Plava Station) |
-
+| M1S        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) |
+| M2S | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) |
+| M3S | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) |
+| M4S | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) (Plava Station) |
+| M5S | https://youtu.be/hu9DUu_BK4M?si=F5QA7wKuEtaFhbxn      |
+| M6S | https://youtu.be/sKzGuecISfg?si=buqYGrfrkNd5Pu3s     |  
+| M7S | https://youtu.be/rFxzkEVCyto?si=mA-uNrnFCwsJPlVh     |  
+| M8S  | https://youtu.be/qW3qQ3eX65U?si=rYjAjN562PZy1LTl     |
 
 ### Guides Textuels Endwalker
 ---
 
 | Nom du Défi                                   | Lien |
 | --------------------------------------------- | ---- |
-| Le Cratere des Martyrs (Zordiarche)           |      |              
-| Le Crystal-Mere (Hydaelyn)                    |      |              
-| Le Répons Final (Chantre de l'anéantissement) |      |              
-| La Toison des Tempetes (Barbariccia)          |      |              
-| Le Mont du Supplice (Rubicante)               |      |              
-| La Chaire de l'Exilée (Golbez)                |      |              
-| La Fracture Abyssale (Zeromus)                |      |              
+| Le Cratere des Martyrs           |      |              
+| Le Crystal-Mere                    |      |              
+| Le Répons Final|      |              
+| La Toison des Tempetes |      |              
+| Le Mont du Supplice |      |              
+| La Chaire de l'Exilée                |      |              
+| La Fracture Abyssale                |      |              
 
 | Nom du Raid                    | Lien |
 | ------------------------------ | ---- |
