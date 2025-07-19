@@ -15,44 +15,44 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 ### Guides Vidéo Endwalker
 
-| Nom du Défi                                   | Lien | Contributeur |
-| --------------------------------------------- | ---- | ------------ |
-| Le Cratere des Martyrs (Zordiarche)           |      |              |
-| Le Crystal-Mere (Hydaelyn)                    |      |              |
-| Le Répons Final (Chantre de l'anéantissement) |      |              |
-| La Toison des Tempetes (Barbariccia)          |      |              |
-| Le Mont du Supplice (Rubicante)               |      |              |
-| La Chaire de l'Exilée (Golbez)                |      |              |
-| La Fracture Abyssale (Zeromus)                |      |              |
+| Nom du Défi                                   | Lien |
+| --------------------------------------------- | ---- |
+| Le Cratere des Martyrs (Zordiarche)           |      |         
+| Le Crystal-Mere (Hydaelyn)                    |      |             
+| Le Répons Final (Chantre de l'anéantissement) |      |              
+| La Toison des Tempetes (Barbariccia)          |      |              
+| Le Mont du Supplice (Rubicante)               |      |              
+| La Chaire de l'Exilée (Golbez)                |      |              
+| La Fracture Abyssale (Zeromus)                |      |              
 
-| Nom du Raid                    | Lien | Contributeur |
-| ------------------------------ | ---- | ------------ |
-| P1S (Erichtonios)              |      |              |
-| P2S (Hippokampos)              |      |              |
-| P3S (Protophenix)              |      |              |
-| P4S (Hesperos)                 |      |              |
-| P5S (Proto-Carbuncle)          |      |              |
-| P6S (Hegemone)                 |      |              |
-| P7S (Agdistis)                 |      |              |
-| P8S (Héphaïstos)               |      |              |
-| P9S (Cocyte)                   |      |              |
-| P10S (Pandaemonium)            |      |              |
-| P11S (Themis)                  |      |              |
-| P12S (Athena et Pallas Athena) |      |              |
+| Nom du Raid                    | Lien |
+| ------------------------------ | ---- |
+| P1S (Erichtonios)              |      |              
+| P2S (Hippokampos)              |      |              
+| P3S (Protophenix)              |      |              
+| P4S (Hesperos)                 |      |              
+| P5S (Proto-Carbuncle)          |      |              
+| P6S (Hegemone)                 |      |              
+| P7S (Agdistis)                 |      |              
+| P8S (Héphaïstos)               |      |              
+| P9S (Cocyte)                   |      |              
+| P10S (Pandaemonium)            |      |              
+| P11S (Themis)                  |      |              
+| P12S (Athena et Pallas Athena) |      |              
 
 
 
 ### Guides Textuels Endwalker
 
-| Nom du Défi                                   | Lien | Contributeur |
-| --------------------------------------------- | ---- | ------------ |
-| Le Cratere des Martyrs (Zordiarche)           |      |              |
-| Le Crystal-Mere (Hydaelyn)                    |      |              |
-| Le Répons Final (Chantre de l'anéantissement) |      |              |
-| La Toison des Tempetes (Barbariccia)          |      |              |
-| Le Mont du Supplice (Rubicante)               |      |              |
-| La Chaire de l'Exilée (Golbez)                |      |              |
-| La Fracture Abyssale (Zeromus)                |      |              |
+| Nom du Défi                                   | Lien |
+| --------------------------------------------- | ---- |
+| Le Cratere des Martyrs (Zordiarche)           |      |              
+| Le Crystal-Mere (Hydaelyn)                    |      |              
+| Le Répons Final (Chantre de l'anéantissement) |      |              
+| La Toison des Tempetes (Barbariccia)          |      |              
+| Le Mont du Supplice (Rubicante)               |      |              
+| La Chaire de l'Exilée (Golbez)                |      |              
+| La Fracture Abyssale (Zeromus)                |      |              
 
 | Nom du Raid                    | Lien | Contributeur |
 | ------------------------------ | ---- | ------------ |
@@ -71,10 +71,10 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 ### Guides Video Dawntrail
 
-| Nom du Defi                          | Lien                                                         | Contributeur |
-| ------------------------------------ | ------------------------------------------------------------ | ------------ |
-| Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) | Dea          |
-| Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) | Darken       |
+| Nom du Defi                          | Lien                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
+| Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
 
 | Nom du Raid            | Lien                                                         | Contributeur |
 | ---------------------- | ------------------------------------------------------------ | ------------ |
