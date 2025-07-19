@@ -76,8 +76,8 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
 | Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
 
-| Nom du Raid            | Lien                                                         | Contributeur |
-| ---------------------- | ------------------------------------------------------------ | ------------ |
+| Nom du Raid            | Lien                                                         |
+| ---------------------- | ------------------------------------------------------------ |
 | M1S (Black Cat)        | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) (Mikoto XI) |
 | M2S (Honey Bee Lovely) | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) (Mikoto XI) |
 | M3S (Brute Bomber)     | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) (Plava Station) |
