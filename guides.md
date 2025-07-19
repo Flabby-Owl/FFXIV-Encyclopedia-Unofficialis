@@ -42,8 +42,8 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | ------------------------------------ | ------------------------------------------------------------ |
 | Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
 | Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
-| Interphos (Reine Eternité)           |                                                              |
-| Sanctuaire du Serment (Zelenia)      |                                                              |
+| Interphos (Reine Eternité)           | https://youtu.be/l5OnNQiWXAo?si=Ldpoyd_NDvhbKIu0                                                             |
+| Sanctuaire du Serment (Zelenia)      | https://youtu.be/HWTwIYK_Akg?si=8Rf6M1EnIqva-iYz                                                             |
 
 | Nom du Raid            | Lien                                                         |
 | ---------------------- | ------------------------------------------------------------ |
