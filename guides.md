@@ -14,6 +14,7 @@ Vous trouverez ici des guides vidéos et textuels pour les différents défis ex
 Ces positions sont a définir au début du combat, pour former les binomes et les light party
 
 ### Guides Textuels Dawntrail
+---
 
 | Nom du Defi                          | Lien                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
@@ -35,6 +36,7 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | M8S  |      |
 
 ### Guides Video Dawntrail
+---
 
 | Nom du Defi                          | Lien                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
@@ -52,6 +54,7 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 
 ### Guides Textuels Endwalker
+---
 
 | Nom du Défi                                   | Lien |
 | --------------------------------------------- | ---- |
@@ -80,6 +83,7 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | P12S                           |      |
 
 ### Guides Vidéo Endwalker
+---
 
 | Nom du Défi                                   | Lien |
 | --------------------------------------------- | ---- |
@@ -106,6 +110,49 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | P11S (Themis)                  |      |              
 | P12S (Athena et Pallas Athena) |      |              
 
+### Guides Textuels Shadowbringer
+---
+
+| Nom du Défi                                   | Lien |
+| --------------------------------------------- | ---- |
+|                                               |      |         
+|                                               |      |          
+|                                               |      |            
+|                                               |      |           
+|                                               |      |           
+|                                               |      |             
+|                                               |      |  
+
+| Nom du Raid                                   | Lien |
+| --------------------------------------------- | ---- |
+|                                               |      |         
+|                                               |      |          
+|                                               |      |            
+|                                               |      |           
+|                                               |      |           
+|                                               |      |             
+|                                               |      |
 
 
+### Guides Vidéos Shadowbringer
+---
 
+| Nom du Défi                                   | Lien |
+| --------------------------------------------- | ---- |
+|                                               |      |         
+|                                               |      |          
+|                                               |      |            
+|                                               |      |           
+|                                               |      |           
+|                                               |      |             
+|                                               |      |  
+
+| Nom du Raid                                   | Lien |
+| --------------------------------------------- | ---- |
+|                                               |      |         
+|                                               |      |          
+|                                               |      |            
+|                                               |      |           
+|                                               |      |           
+|                                               |      |             
+|                                               |      |  
