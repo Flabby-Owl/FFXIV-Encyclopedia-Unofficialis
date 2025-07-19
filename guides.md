@@ -1,4 +1,4 @@
-# Guides stratégiques pour Défis et Raids level 90-100
+# Guides stratégiques pour Défis Extremes et Raids Sadiques level 80 90 et 100
 
 Vous trouverez ici des guides vidéos et textuels pour les différents défis extrême et raids sadiques pour Endwalker et Dawntrail
 
@@ -115,44 +115,56 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 | Nom du Défi                                   | Lien |
 | --------------------------------------------- | ---- |
-|                                               |      |         
-|                                               |      |          
-|                                               |      |            
-|                                               |      |           
-|                                               |      |           
-|                                               |      |             
-|                                               |      |  
+| La Valse du Monarque                                              |      |         
+| Courrone de L'Immaculé                                              |      |          
+| Rale de L'Agonie                                              |      |            
+| Les Nuées de Brandons                                              |      |           
+| Memoria Misera                                              |      |           
+| Le Trone du Sacrifice                                              |      |             
+| Castrum Marinum                                              |      |
+| Le Tillac des Cirrus                                              |      | 
 
 | Nom du Raid                                   | Lien |
 | --------------------------------------------- | ---- |
-|                                               |      |         
-|                                               |      |          
-|                                               |      |            
-|                                               |      |           
-|                                               |      |           
-|                                               |      |             
-|                                               |      |
-
+| E1S                                              |      |         
+| E2S                                              |      |          
+| E3S                                              |      |            
+| E4S                                              |      |           
+| E5S                                              |      |           
+| E6S                                              |      |             
+| E7S                                              |      |
+| E8S                                              |      |
+| E9S                                              |      |
+| E10S                                              |      |
+| E11S                                              |      |
+| E12S (Phase 1)                                              |      |
+| E12S (Phase 2)                                             |      |
 
 ### Guides Vidéos Shadowbringer
 ---
 
 | Nom du Défi                                   | Lien |
 | --------------------------------------------- | ---- |
-|                                               |      |         
-|                                               |      |          
-|                                               |      |            
-|                                               |      |           
-|                                               |      |           
-|                                               |      |             
-|                                               |      |  
-
+| La Valse du Monarque                                              |      |         
+| Courrone de L'Immaculé                                              |      |          
+| Rale de L'Agonie                                              |      |            
+| Les Nuées de Brandons                                              |      |           
+| Memoria Misera                                              |      |           
+| Le Trone du Sacrifice                                              |      |             
+| Castrum Marinum                                              |      |
+| Le Tillac des Cirrus                                              |      | 
 | Nom du Raid                                   | Lien |
 | --------------------------------------------- | ---- |
-|                                               |      |         
-|                                               |      |          
-|                                               |      |            
-|                                               |      |           
-|                                               |      |           
-|                                               |      |             
-|                                               |      |  
+| E1S                                              |      |         
+| E2S                                              |      |          
+| E3S                                              |      |            
+| E4S                                              |      |           
+| E5S                                              |      |           
+| E6S                                              |      |             
+| E7S                                              |      |
+| E8S                                              |      |
+| E9S                                              |      |
+| E10S                                              |      |
+| E11S                                              |      |
+| E12S (Phase 1)                                              |      |
+| E12S (Phase 2)                                             |      |
