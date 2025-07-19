@@ -75,6 +75,8 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | ------------------------------------ | ------------------------------------------------------------ |
 | Worqor Lar Dor (Valigarmanda)        | [Youtube](https://youtu.be/0BHlT9TbyJc?si=OwGUSrwjEupUWLIK) (yukizuri) |
 | Le Pinacle de l'Éternité (Zoraal Ja) | [Youtube](https://www.youtube.com/watch?v=uB_-7hCoR-s) (Mikoto XI) |
+| Interphos (Reine Eternité)           |                                                              |
+| Sanctuaire du Serment (Zelenia)      |                                                              |
 
 | Nom du Raid            | Lien                                                         |
 | ---------------------- | ------------------------------------------------------------ |
@@ -86,10 +88,12 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 
 ### Guides Textuels Dawntrail
 
-| Nom du Defi                          | Lien | 
-| ------------------------------------ | ---- |
-| Worqor Lar Dor (Valigarmanda)        |      |              
-| Le Pinacle de l'Éternité (Zoraal Ja) |      |              
+| Nom du Defi                          | Lien                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| Worqor Lar Dor (Valigarmanda)        | https://www.ffxiv-eorzea.com/guides-instances/defis/extreme/dawntrail-extreme/guide-valigarmanda-extreme-worqor-lar-dor/2024/09/16/ |
+| Le Pinacle de l'Éternité (Zoraal Ja) | https://www.ffxiv-eorzea.com/guides-instances/guide-zarool/2024/08/01/ |
+| Interphos (Reine Eternité)           | https://www.ffxiv-eorzea.com/guides-instances/guide-reine-eternite-extreme-interphos/2024/12/11/                                                             |
+| Sanctuaire du Serment (Zelenia)      | https://www.ffxiv-eorzea.com/guides-instances/guide-zelenia-extreme-sanctuaire-du-serment/2025/04/07/                                                             |             
 
 | Nom du Raid            | Lien |
 | ---------------------- | ---- |
