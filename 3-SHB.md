@@ -1,6 +1,6 @@
-![HS Logo](img/Heavensward_Logo.png)
+![ShB Logo](img/Shadowbringers_Logo.png)
 
-* Heavensward
+* Shadowbringers
 
     * Guides Textuels
 

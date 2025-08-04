@@ -1,6 +1,6 @@
-![HS Logo](img/Heavensward_Logo.png)
+![SB Logo](img/Stormblood_Logo.png)
 
-* Heavensward
+* Stormblood
 
     * Guides Textuels
 
