@@ -46,3 +46,5 @@ Donc par extension:
 * [Shadowbringers](3-SHB.md)
 * [Endwalker](4-EW.md)
 * [Dawntrail](5-DT.md)
+
+*Le pictogramme ![mount](img/mount.png) a coté du nom du raid/defi signifie qu'on peux y loot une monture*
