@@ -1,4 +1,4 @@
-# Guides stratégiques pour Défis Extremes et Raids Sadiques level 80 90 et 100
+# Guides stratégiques pour Défis Extremes et Raids Sadiques
 
 Vous trouverez ici des guides vidéos et textuels pour les différents défis extrême et raids sadiques pour Endwalker et Dawntrail
 
@@ -12,6 +12,28 @@ Vous trouverez ici des guides vidéos et textuels pour les différents défis ex
 | OT = Off Tank  | H2 = Healer 2 | M2 = DPS Mélée 2 | R2 = DPS Distance / Magique 2 |
 
 Ces positions sont a définir au début du combat, pour former les binomes et les light party
+
+C'est comme ca que les joueurs definissent leur position que ce soit en CL ou en PF, generalement concernant les binomes, ils sont definis de la maniere suivante:
+
+**MT + M1**
+
+**H1 + R1**
+
+**OT + M2**
+
+**H2 + R2**
+
+*pour les binomes*
+
+Donc par extension:
+
+**MT + H1 + M1 + R1**
+
+ **OT + H2 + M2 + R2**
+
+*Pour les Light Party*
+
+**Il existe en effet un consensus qui fait que vous retrouverez majoritairement ces positions fixes. Dans le cas ou il n'y aurait que des Melee ou des Distance, les positions sont prises en consquence donc ça ne change rien.**
 
 ### Guides Textuels
 ---
@@ -96,7 +118,27 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | E12S (Phase 1) | [Nawiel Live](https://nawiel.live/la-promesse-deden-eternite-sadique/) |
 | E12S (Phase 2) | [Nawiel Live](https://nawiel.live/la-promesse-deden-eternite-sadique-partie-2/) |
 
+#### Heavensward
+
+| Nom du Raid    | Lien                                                         |
+| -------------- | ------------------------------------------------------------ |
+| A1S            |                                                              |
+| A2S            |                                                              |
+| A3S            |                                                              |
+| A4S            |                                                              |
+| A5S            |                                                              |
+| A6S            |                                                              |
+| A7S            |                                                              |
+| A8S            |                                                              |
+| A9S            |                                                              |
+| A10S           |                                                              |
+| A11S           |                                                              |
+| A12S (Phase 1) |                                                              |
+| A12S (Phase 2) |                                                              |
+
+
 ### Guides Vidéo
+
 ---
 #### Dawntrail
 
@@ -174,3 +216,21 @@ Ces positions sont a définir au début du combat, pour former les binomes et le
 | E11S                                             |      |
 | E12S (Phase 1)                                   |      |
 | E12S (Phase 2)                                   |      |
+
+#### Heavensward
+
+| Nom du Raid    | Lien                                                         |
+| -------------- | ------------------------------------------------------------ |
+| A1S            |                                                              |
+| A2S            |                                                              |
+| A3S            |                                                              |
+| A4S            |                                                              |
+| A5S            |                                                              |
+| A6S            |                                                              |
+| A7S            |                                                              |
+| A8S            |                                                              |
+| A9S            |                                                              |
+| A10S           |                                                              |
+| A11S           |                                                              |
+| A12S (Phase 1) |                                                              |
+| A12S (Phase 2) |                                                              |
