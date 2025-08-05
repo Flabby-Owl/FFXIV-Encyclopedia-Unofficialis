@@ -1,7 +1,5 @@
 # Guides stratégiques pour Défis Extremes et Raids Sadiques
-
 ---
-
 Vous trouverez ici des guides vidéos et textuels pour les différents défis extrême et raids sadiques pour Endwalker et Dawntrail
 
 **ATTENTION: il est possible qu'il existe plusieurs strat' pour le même boss et que la stratégie décrite en vidéo et celle écrite divergent, il conviendra donc de discuter avec l’équipe de la stratégie à appliquer**
