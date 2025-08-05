@@ -40,12 +40,12 @@ Donc par extension:
 **Il existe en effet un consensus qui fait que vous retrouverez majoritairement ces positions fixes. Dans le cas ou il n'y aurait que des Melee ou des Distance, les positions sont prises en consquence donc ça ne change rien.**
 
 #### Explication du nom des raids:
-BxS: Bahamut [*numero du raid*] Sadique
-AxS: Alexander [*numero du raid*] Sadique
-OxS: Omega [*numero du raid*] Sadique
-ExS: Eden [*numero du raid*] Sadique
-PxS: Pendæmonium [*numero du raid*] Sadique
-MxS: Arcadion [*numero du raid*] Sadique
+* BxS: Bahamut [*numero du raid*] Sadique
+* AxS: Alexander [*numero du raid*] Sadique
+* OxS: Omega [*numero du raid*] Sadique
+* ExS: Eden [*numero du raid*] Sadique
+* PxS: Pendæmonium [*numero du raid*] Sadique
+* MxS: Arcadion [*numero du raid*] Sadique
 
 ### Sommaire
 ---
