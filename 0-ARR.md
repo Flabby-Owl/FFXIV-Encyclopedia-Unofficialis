@@ -6,3 +6,5 @@
     * Guides Vidéo
     
     COMMING SOON
+
+![ARR Footer](img/ARR_footer.jpg)

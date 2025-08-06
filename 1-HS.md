@@ -53,3 +53,5 @@
 | ![raid](img/raid.png) A10S                         | [Youtube](https://youtu.be/FyRatEBDx44?si=CIPol-SQTcLOvHs1) |
 | ![raid](img/raid.png) A11S                         | [Youtube](https://youtu.be/g043Z7yFpUM?si=QMZPGbmn7wGn7Zld) |
 | ![raid](img/raid.png) A12S ![Mount](img/mount.png) | [Youtube](https://youtu.be/gouGWgI8ttc?si=bhzIzUHNkLZqco2Z) |
+
+![HS Footer](img/HS_footer.jpg)

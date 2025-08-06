@@ -7,3 +7,5 @@
     * Guides Vidéo
 
 COMMING SOON
+
+![SB Footer](img/SB_footer.jpg)

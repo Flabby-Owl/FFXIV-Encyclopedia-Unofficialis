@@ -45,3 +45,5 @@
 | ![raid](img/raid.png) M6S | [Youtube](https://youtu.be/sKzGuecISfg?si=buqYGrfrkNd5Pu3s) |
 | ![raid](img/raid.png) M7S | [Youtube](https://youtu.be/rFxzkEVCyto?si=mA-uNrnFCwsJPlVh) |
 | ![raid](img/raid.png) M8S ![mount](img/mount.png) | [Youtube](https://youtu.be/qW3qQ3eX65U?si=rYjAjN562PZy1LTl) |
+
+![DT Footer](img/DT_footer.jpg)

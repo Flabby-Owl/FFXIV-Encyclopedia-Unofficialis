@@ -63,3 +63,5 @@
 | ![raid](img/raid.png) P11S                                   |      |
 | ![raid](img/raid.png) P12S (Phase 1) ![mount](img/mount.png) |      |
 | ![raid](img/raid.png) P12S (Phase 2)                         |      |
+
+![EW Footer](img/EW_footer.jpg)
