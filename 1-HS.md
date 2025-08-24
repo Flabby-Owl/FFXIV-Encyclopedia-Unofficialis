@@ -14,18 +14,18 @@
 
 | Nom du Raid                                        | Lien                                                        |
 | -------------------------------------------------- | ----------------------------------------------------------- |
-| ![raid](img/raid.png) A1S                          | SOON                                                            |
-| ![raid](img/raid.png) A2S                          | SOON                                                            |
-| ![raid](img/raid.png) A3S                          | SOON                                                            |
-| ![raid](img/raid.png) A4S ![Mount](img/mount.png)  | SOON                                                            |
-| ![raid](img/raid.png) A5S                          | SOON                                                            |
-| ![raid](img/raid.png) A6S                          | SOON                                                            |
-| ![raid](img/raid.png) A7S                          | SOON                                                            |
-| ![raid](img/raid.png) A8S                          | SOON                                                            |
-| ![raid](img/raid.png) A9S                          | SOON                                                            |
-| ![raid](img/raid.png) A10S                         | SOON                                                            |
-| ![raid](img/raid.png) A11S                         | SOON                                                            |
-| ![raid](img/raid.png) A12S ![Mount](img/mount.png) | SOON                                                            |
+| ![raid](img/raid.png) A1S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Fist_of_the_Father_(Savage))                                                            |
+| ![raid](img/raid.png) A2S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Cuff_of_the_Father_(Savage))                                                         |
+| ![raid](img/raid.png) A3S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Arm_of_the_Father_(Savage))                                                           |
+| ![raid](img/raid.png) A4S ![Mount](img/mount.png)  | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Burden_of_the_Father_(Savage))                                                            |
+| ![raid](img/raid.png) A5S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Fist_of_the_Son_(Savage))                                                            |
+| ![raid](img/raid.png) A6S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Cuff_of_the_Son_(Savage))                                                          |
+| ![raid](img/raid.png) A7S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Arm_of_the_Son_(Savage))                                                            |
+| ![raid](img/raid.png) A8S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Burden_of_the_Son_(Savage))                                                            |
+| ![raid](img/raid.png) A9S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Eyes_of_the_Creator_(Savage))                                                            |
+| ![raid](img/raid.png) A10S                         | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Breath_of_the_Creator_(Savage))                                                            |
+| ![raid](img/raid.png) A11S                         | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Heart_of_the_Creator_(Savage))                                                            |
+| ![raid](img/raid.png) A12S ![Mount](img/mount.png) | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Soul_of_the_Creator_(Savage))                                                            |
 
 #### Guides Vidéos
 ---
