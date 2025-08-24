@@ -4,54 +4,54 @@
 ---
 | Nom du Défi                                        | Lien                                                        |
 | -------------------------------------------------- | ----------------------------------------------------------- |
-| ![raid](img/trial.png) L'Immensité bleue ![Mount](img/mount.png)           | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-bismarck-extreme-immensite-bleue/2021/07/14/)                                    |
+| ![raid](img/trial.png) L'Immensité bleue ![Mount](img/mount.png)           | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-bismarck-extreme-immensite-bleue/2021/07/14/)                                |
 | ![raid](img/trial.png) Thok ast Thok ![Mount](img/mount.png)               | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-ravana-extreme-thok-ast-thok/2021/07/16/)                                    |
-| ![raid](img/trial.png) Le Règne de Thordan ![Mount](img/mount.png)         | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-le-regne-de-thordan-extreme/2021/08/17/)                                    |
-| ![raid](img/trial.png) L'ire de Nidhogg ![Mount](img/mount.png)            | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-ire-de-nidhogg-extreme/2021/09/26/)                                    |
-| ![raid](img/trial.png) Unité de Contention S1P7 ![Mount](img/mount.png)    | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-sephirot-extreme-unite-de-contention-s1p7/2021/11/02/)                                    |
-| ![raid](img/trial.png) Unité de Contention P1P6 ![Mount](img/mount.png)    | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-sophia-extreme-unite-de-contention-p1p6/2022/05/04/)                                    |
-| ![raid](img/trial.png) Unité de Contention Z1P9 ![Mount](img/mount.png)    | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-zurvan-extreme-unite-de-contention-z1p9/2023/04/05/)                                    |
+| ![raid](img/trial.png) Le Règne de Thordan ![Mount](img/mount.png)         | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-le-regne-de-thordan-extreme/2021/08/17/)                                     |
+| ![raid](img/trial.png) L'ire de Nidhogg ![Mount](img/mount.png)            | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-ire-de-nidhogg-extreme/2021/09/26/)                                          |
+| ![raid](img/trial.png) Unité de Contention S1P7 ![Mount](img/mount.png)    | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-sephirot-extreme-unite-de-contention-s1p7/2021/11/02/)                       |
+| ![raid](img/trial.png) Unité de Contention P1P6 ![Mount](img/mount.png)    | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-sophia-extreme-unite-de-contention-p1p6/2022/05/04/)                         |
+| ![raid](img/trial.png) Unité de Contention Z1P9 ![Mount](img/mount.png)    | [FFXIV-Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-zurvan-extreme-unite-de-contention-z1p9/2023/04/05/)                         |
 
 | Nom du Raid                                        | Lien                                                        |
 | -------------------------------------------------- | ----------------------------------------------------------- |
-| ![raid](img/raid.png) A1S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Fist_of_the_Father_(Savage))                                                            |
-| ![raid](img/raid.png) A2S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Cuff_of_the_Father_(Savage))                                                         |
-| ![raid](img/raid.png) A3S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Arm_of_the_Father_(Savage))                                                           |
-| ![raid](img/raid.png) A4S ![Mount](img/mount.png)  | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Burden_of_the_Father_(Savage))                                                            |
-| ![raid](img/raid.png) A5S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Fist_of_the_Son_(Savage))                                                            |
-| ![raid](img/raid.png) A6S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Cuff_of_the_Son_(Savage))                                                          |
-| ![raid](img/raid.png) A7S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Arm_of_the_Son_(Savage))                                                            |
-| ![raid](img/raid.png) A8S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Burden_of_the_Son_(Savage))                                                            |
-| ![raid](img/raid.png) A9S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Eyes_of_the_Creator_(Savage))                                                            |
-| ![raid](img/raid.png) A10S                         | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Breath_of_the_Creator_(Savage))                                                            |
-| ![raid](img/raid.png) A11S                         | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Heart_of_the_Creator_(Savage))                                                            |
-| ![raid](img/raid.png) A12S ![Mount](img/mount.png) | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Soul_of_the_Creator_(Savage))                                                            |
+| ![raid](img/raid.png) A1S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Fist_of_the_Father_(Savage)) [EN]                                                             |
+| ![raid](img/raid.png) A2S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Cuff_of_the_Father_(Savage)) [EN]                                                             |
+| ![raid](img/raid.png) A3S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Arm_of_the_Father_(Savage)) [EN]                                                              |
+| ![raid](img/raid.png) A4S ![Mount](img/mount.png)  | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Burden_of_the_Father_(Savage)) [EN]                                                           |
+| ![raid](img/raid.png) A5S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Fist_of_the_Son_(Savage)) [EN]                                                                |
+| ![raid](img/raid.png) A6S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Cuff_of_the_Son_(Savage)) [EN]                                                                |
+| ![raid](img/raid.png) A7S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Arm_of_the_Son_(Savage)) [EN]                                                                 |
+| ![raid](img/raid.png) A8S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Burden_of_the_Son_(Savage)) [EN]                                                              |
+| ![raid](img/raid.png) A9S                          | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Eyes_of_the_Creator_(Savage)) [EN]                                                            |
+| ![raid](img/raid.png) A10S                         | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Breath_of_the_Creator_(Savage)) [EN]                                                          |
+| ![raid](img/raid.png) A11S                         | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Heart_of_the_Creator_(Savage)) [EN]                                                           |
+| ![raid](img/raid.png) A12S ![Mount](img/mount.png) | [consolegamewiki](https://ffxiv.consolegameswiki.com/wiki/Alexander_-_The_Soul_of_the_Creator_(Savage)) [EN]                                                            |
 
 #### Guides Vidéos
 ---
 | Nom du Défi                                        | Lien                                                        |
 | -------------------------------------------------- | ----------------------------------------------------------- |
-| ![raid](img/trial.png) L'Immensité bleue ![Mount](img/mount.png)           | [Youtube](https://youtu.be/6oDcxbgKbZo?si=jKvb2ao3FPdlwq-R)                                     |
-| ![raid](img/trial.png) Thok ast Thok ![Mount](img/mount.png)               | [Youtube](https://youtu.be/utszaxFWWbs?si=QeRE-4PE9P0_SwBZ)                                    |
-| ![raid](img/trial.png) Le Règne de Thordan ![Mount](img/mount.png)         | [Youtube](https://youtu.be/seztdDxnTMw?si=cZdIvjYlVaGwxxVP)                                    |
-| ![raid](img/trial.png) L'ire de Nidhogg ![Mount](img/mount.png)            | [Youtube](https://youtu.be/LNx3Dc6Rrgc?si=4SdsCUTh2ZhIC8h_)                                    |
-| ![raid](img/trial.png) Unité de Contention S1P7 ![Mount](img/mount.png)    | [Youtube](https://youtu.be/hrswwtQCw_s?si=f48-2vTh1mKDi2Tn)                                    |
-| ![raid](img/trial.png) Unité de Contention P1P6 ![Mount](img/mount.png)    | [Youtube](https://youtu.be/R5Xs4nux4og?si=eL5jPoigYNdkiL7t)                                   |
-| ![raid](img/trial.png) Unité de Contention Z1P9 ![Mount](img/mount.png)    | [Youtube](https://youtu.be/9QW42kADEfo?si=354sf9Qdm-jGhO1d)                                    |
+| ![raid](img/trial.png) L'Immensité bleue ![Mount](img/mount.png)           | [Youtube](https://youtu.be/6oDcxbgKbZo?si=jKvb2ao3FPdlwq-R) [Mikoto]                                   |
+| ![raid](img/trial.png) Thok ast Thok ![Mount](img/mount.png)               | [Youtube](https://youtu.be/utszaxFWWbs?si=QeRE-4PE9P0_SwBZ) [Mikoto]                                   |
+| ![raid](img/trial.png) Le Règne de Thordan ![Mount](img/mount.png)         | [Youtube](https://youtu.be/seztdDxnTMw?si=cZdIvjYlVaGwxxVP) [Mikoto]                                   |
+| ![raid](img/trial.png) L'ire de Nidhogg ![Mount](img/mount.png)            | [Youtube](https://youtu.be/LNx3Dc6Rrgc?si=4SdsCUTh2ZhIC8h_) [Mikoto]                                   |
+| ![raid](img/trial.png) Unité de Contention S1P7 ![Mount](img/mount.png)    | [Youtube](https://youtu.be/hrswwtQCw_s?si=f48-2vTh1mKDi2Tn) [Mikoto]                                   |
+| ![raid](img/trial.png) Unité de Contention P1P6 ![Mount](img/mount.png)    | [Youtube](https://youtu.be/R5Xs4nux4og?si=eL5jPoigYNdkiL7t) [Mikoto]                                   |
+| ![raid](img/trial.png) Unité de Contention Z1P9 ![Mount](img/mount.png)    | [Youtube](https://youtu.be/9QW42kADEfo?si=354sf9Qdm-jGhO1d) [Mikoto]                                   |
 
 | Nom du Raid                                        | Lien                                                        |
 | -------------------------------------------------- | ----------------------------------------------------------- |
-| ![raid](img/raid.png) A1S                          | [Youtube](https://youtu.be/1wLope4o9IQ?si=0UFmZac5JlzR21T0) |
-| ![raid](img/raid.png) A2S                          | [Youtube](https://youtu.be/xwpuuqkGFRM?si=aBPrzdfq8O_JHXL6) |
-| ![raid](img/raid.png) A3S                          | [Youtube](https://youtu.be/wyR1u_7wnos?si=hivhp59p9S1RuDn4) |
-| ![raid](img/raid.png) A4S ![Mount](img/mount.png)  | [Youtube](https://youtu.be/3xJJBt-72bM?si=rYMfeV7XBDQxpU4i) |
-| ![raid](img/raid.png) A5S                          | [Youtube](https://youtu.be/_c3qHbIJNkg?si=wj1kblBqGE9DXcMM) |
-| ![raid](img/raid.png) A6S                          | [Youtube](https://youtu.be/h66DR4xq2hQ?si=UEItEz8yOjdjXvk-) |
-| ![raid](img/raid.png) A7S                          | [Youtube](https://youtu.be/yLfp6Pv4yck?si=kJUECj50WVnjq0J5) |
-| ![raid](img/raid.png) A8S                          | [Youtube](https://youtu.be/XeBr5m9Xjdk?si=FBs62f2eCiGqTZO8) |
-| ![raid](img/raid.png) A9S                          | [Youtube](https://youtu.be/HVSN-Wa3IaU?si=P7q3Luxzi9n006D9) |
-| ![raid](img/raid.png) A10S                         | [Youtube](https://youtu.be/FyRatEBDx44?si=CIPol-SQTcLOvHs1) |
-| ![raid](img/raid.png) A11S                         | [Youtube](https://youtu.be/g043Z7yFpUM?si=QMZPGbmn7wGn7Zld) |
-| ![raid](img/raid.png) A12S ![Mount](img/mount.png) | [Youtube](https://youtu.be/gouGWgI8ttc?si=bhzIzUHNkLZqco2Z) |
+| ![raid](img/raid.png) A1S                          | [Youtube](https://youtu.be/1wLope4o9IQ?si=0UFmZac5JlzR21T0) [Mikoto] |
+| ![raid](img/raid.png) A2S                          | [Youtube](https://youtu.be/xwpuuqkGFRM?si=aBPrzdfq8O_JHXL6) [Mikoto] |
+| ![raid](img/raid.png) A3S                          | [Youtube](https://youtu.be/wyR1u_7wnos?si=hivhp59p9S1RuDn4) [Mikoto] |
+| ![raid](img/raid.png) A4S ![Mount](img/mount.png)  | [Youtube](https://youtu.be/3xJJBt-72bM?si=rYMfeV7XBDQxpU4i) [Mikoto] |
+| ![raid](img/raid.png) A5S                          | [Youtube](https://youtu.be/_c3qHbIJNkg?si=wj1kblBqGE9DXcMM) [Mikoto] |
+| ![raid](img/raid.png) A6S                          | [Youtube](https://youtu.be/h66DR4xq2hQ?si=UEItEz8yOjdjXvk-) [Mikoto] |
+| ![raid](img/raid.png) A7S                          | [Youtube](https://youtu.be/yLfp6Pv4yck?si=kJUECj50WVnjq0J5) [Mikoto] |
+| ![raid](img/raid.png) A8S                          | [Youtube](https://youtu.be/XeBr5m9Xjdk?si=FBs62f2eCiGqTZO8) [Mikoto] |
+| ![raid](img/raid.png) A9S                          | [Youtube](https://youtu.be/HVSN-Wa3IaU?si=P7q3Luxzi9n006D9) [Mikoto] |
+| ![raid](img/raid.png) A10S                         | [Youtube](https://youtu.be/FyRatEBDx44?si=CIPol-SQTcLOvHs1) [Mikoto] |
+| ![raid](img/raid.png) A11S                         | [Youtube](https://youtu.be/g043Z7yFpUM?si=QMZPGbmn7wGn7Zld) [Mikoto] |
+| ![raid](img/raid.png) A12S ![Mount](img/mount.png) | [Youtube](https://youtu.be/gouGWgI8ttc?si=bhzIzUHNkLZqco2Z) [Mikoto] |
 
 ![HS Footer](img/HS_footer.jpg)
