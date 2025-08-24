@@ -19,9 +19,9 @@
 | ![raid](img/raid.png) M4S ![mount](img/mount.png) | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m4s-phase-1-poids-mi-lourds-cca-m4s/2025/02/09/) |
 | ![raid](img/raid.png) M4S | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m4s-phase-2-poids-mi-lourds-cca-m4s/2025/02/09/)                         |
 | ![raid](img/raid.png) M5S | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-arcadion-sadique-m5s-poids-lourd-leger-cca-m1s/2025/06/14/)                               |
-| ![raid](img/raid.png) M6S | Soon                                                                                                                                                         |
-| ![raid](img/raid.png) M7S | Soon                                                                                                                                                         |
-| ![raid](img/raid.png) M8S ![mount](img/mount.png) | Soon                                                                                                                                 |
+| ![raid](img/raid.png) M6S | [Icy Veins](https://www.icy-veins.com/ffxiv/aac-cruiserweight-m2-savage-raid-guide) [EN]                                                                                       |
+| ![raid](img/raid.png) M7S | [Icy Veins](https://www.icy-veins.com/ffxiv/aac-cruiserweight-m3-savage-raid-guide) [EN]                                                                                       |
+| ![raid](img/raid.png) M8S ![mount](img/mount.png) | [Icy Veins](https://www.icy-veins.com/ffxiv/aac-cruiserweight-m4-savage-raid-guide) [EN]                                                               |
 
 
 
@@ -39,13 +39,13 @@
 
 | Nom du Raid            | Lien                                                         |
 | ---------------------- | ------------------------------------------------------------ |
-| ![raid](img/raid.png) M1S | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg)                         |
-| ![raid](img/raid.png) M2S | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV)                         |
-| ![raid](img/raid.png) M3S | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz)                         |
-| ![raid](img/raid.png) M4S ![mount](img/mount.png) | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) |
-| ![raid](img/raid.png) M5S | [Youtube](https://youtu.be/hu9DUu_BK4M?si=F5QA7wKuEtaFhbxn)                         |
-| ![raid](img/raid.png) M6S | [Youtube](https://youtu.be/sKzGuecISfg?si=buqYGrfrkNd5Pu3s)                         |
-| ![raid](img/raid.png) M7S | [Youtube](https://youtu.be/rFxzkEVCyto?si=mA-uNrnFCwsJPlVh)                         |
-| ![raid](img/raid.png) M8S ![mount](img/mount.png) | [Youtube](https://youtu.be/qW3qQ3eX65U?si=rYjAjN562PZy1LTl) |
+| ![raid](img/raid.png) M1S | [Youtube](https://youtu.be/i6gyp6_MQnE?si=eOmdcs0Ph-Rv6olg) [Mikoto]                         |
+| ![raid](img/raid.png) M2S | [Youtube](https://youtu.be/rEmc3AxQqDE?si=lTAOEfJvxpzZjvPV) [Mikoto]                         |
+| ![raid](img/raid.png) M3S | [Youtube](https://youtu.be/fsyDXdss_qw?si=2SEESFVTJFkPfyWz) [Mikoto]                         |
+| ![raid](img/raid.png) M4S ![mount](img/mount.png) | [Youtube](https://youtu.be/ZioFXxs1KyQ?si=iAFuEThGwrBLBV67) [Mikoto] |
+| ![raid](img/raid.png) M5S | [Youtube](https://youtu.be/hu9DUu_BK4M?si=F5QA7wKuEtaFhbxn) [Mikoto]                         |
+| ![raid](img/raid.png) M6S | [Youtube](https://youtu.be/sKzGuecISfg?si=buqYGrfrkNd5Pu3s) [Mikoto]                         |
+| ![raid](img/raid.png) M7S | [Youtube](https://youtu.be/rFxzkEVCyto?si=mA-uNrnFCwsJPlVh) [Mikoto]                         |
+| ![raid](img/raid.png) M8S ![mount](img/mount.png) | [Youtube](https://youtu.be/qW3qQ3eX65U?si=rYjAjN562PZy1LTl) [Mikoto] |
 
 ![DT Footer](img/DT_footer.jpg)
