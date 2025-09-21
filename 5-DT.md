@@ -23,7 +23,20 @@
 | ![raid](img/raid.png) M7S | [Icy Veins](https://www.icy-veins.com/ffxiv/aac-cruiserweight-m3-savage-raid-guide) [EN]                                                                                       |
 | ![raid](img/raid.png) M8S ![mount](img/mount.png) | [Icy Veins](https://www.icy-veins.com/ffxiv/aac-cruiserweight-m4-savage-raid-guide) [EN]                                                               |
 
+#### Raidplans en vrac
+---
 
+| Nom du Raid / Defi           | Lien |
+| ---------------------- | ---- |
+| ![raid](img/raid.png) Sanctuaire du Serment  | [Raidplan.io](https://raidplan.io/plan/acWA-JTlEzA7SWMG)                                 |
+| ![raid](img/raid.png) M5S                    | [Raidplan.io](https://raidplan.io/plan/pztjVHnzfhEkg6pH)                                 |
+| ![raid](img/raid.png) M6S P1 Adds            | [Raidplan.io](https://raidplan.io/plan/Pgj53K49w8LAZpI6)                                 |
+| ![raid](img/raid.png) M6S Desert             | [Raidplan.io](https://raidplan.io/plan/NWiAOP4kdekXg9mg)                                 |
+| ![raid](img/raid.png) M6S P2 Bridges         | [Raidplan.io](https://raidplan.io/plan/f0forhkOQMkVL3-I)                                 |
+| ![raid](img/raid.png) M7S P1                 | [Raidplan.io](https://raidplan.io/plan/PWFgPfz0vL7runO2)                                 |
+| ![raid](img/raid.png) M7S P2                 | [Raidplan.io](https://raidplan.io/plan/gIcsj6_cyedVQON7)                                 |
+| ![raid](img/raid.png) M7S P2 (Fixed Seeds)   | [Raidplan.io](https://raidplan.io/plan/-lZai2v34Y8bC15S)                                 |
+| ![raid](img/raid.png) M7S P3                 | [Raidplan.io](https://raidplan.io/plan/DEijc3hhq_CNGaRg)                                 |
 
 #### Guides Vidéos
 
