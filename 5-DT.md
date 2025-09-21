@@ -9,7 +9,7 @@
 | ![trial](img/trial.png) Le Pinacle de l'Éternité ![mount](img/mount.png) | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-zarool/2024/08/01/)                                                    |
 | ![trial](img/trial.png) Interphos ![mount](img/mount.png) | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-reine-eternite-extreme-interphos/2024/12/11/)                                         |
 | ![trial](img/trial.png) Sanctuaire du Serment ![mount](img/mount.png) | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-zelenia-extreme-sanctuaire-du-serment/2025/04/07/)                        |
-| ![trial](img/trial.png) Nécropole intemporelle ![mount](img/mount.png) | Soon                                |
+| ![trial](img/trial.png) Nécropole intemporelle ![mount](img/mount.png) | [FFXIV Eorzea](https://www.ffxiv-eorzea.com/guides-instances/guide-darkness-extreme-la-necropole-intemporelle/2025/09/10/)                  |
 
 | Nom du Raid            | Lien |
 | ---------------------- | ---- |
